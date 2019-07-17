@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         //
         //we can do it.// my feature modify.
 	//branch test.
+	//branch feature modified test.
     }
 }
